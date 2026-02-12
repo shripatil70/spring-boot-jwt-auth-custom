@@ -38,7 +38,7 @@ This project demonstrates real-world backend authentication with role-based acce
 
 # JWT Configuration
 
--app.jwt.secret=your_super_secret_signing_key_at_least_32_characters_long
--app.jwt.expiration-ms=86400000
+- app.jwt.secret=your_super_secret_signing_key_at_least_32_characters_long
+- app.jwt.expiration-ms=86400000
 
 
